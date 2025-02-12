@@ -1,2 +1,2 @@
 # dwisyan_
-verify GitHub profile
+verify Discord username with github profile
